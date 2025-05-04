@@ -1,0 +1,424 @@
+{
+    "duhok": {
+      "latitude_hh": 36.8542598,
+      "longitude_hh": 42.9924528,
+      "refugee_camps": [
+
+        {
+          "name": "bajed_kandala",
+          "latitude": 37.054590321996955,
+          "longitude": 42.445562312709995,
+          "capacity": null,
+          "current_population": null,
+          "last_updated": "",
+          "assigned_district_hh": "duhok"
+        }
+      ]
+    },
+  "al_sulaymaniyah": {
+    "latitude_hh": 35.5570501,
+    "longitude_hh": 45.4425963,
+    "refugee_camps": [
+      {
+        "name": "ashti_idp",
+        "latitude": 35.41516,
+        "longitude": 45.60234,
+        "capacity": null,
+        "current_population": null,
+        "last_updated": "",
+        "assigned_district_hh": "al_sulaymaniyah"
+      },
+      {
+        "name": "arbat_idp",
+        "latitude": 35.40950474,
+        "longitude": 45.56437482,
+        "capacity": 3455,
+        "current_population": 5000,
+        "last_updated": "",
+        "assigned_district_hh": "al_sulaymaniyah"
+      }
+    ]
+  },
+  "al_ramadi": {
+    "latitude_hh": 33.25567,
+    "longitude_hh": 43.16588,
+    "refugee_camps": []
+  },
+  "kirkuk": {
+    "latitude_hh": 35.4719308,
+    "longitude_hh": 44.3953896,
+    "refugee_camps": [
+      {
+        "name": "Laylan IDP Camp",
+        "latitude": 35.328988,
+        "longitude": 44.528182,
+        "capacity": null,
+        "current_population": null,
+        "last_updated": "",
+        "assigned_district_hh": "kirkuk"
+      }
+    ]
+  },
+  "erbil": {
+    "latitude_hh": 36.1911744,
+    "longitude_hh": 44.0094145,
+    "refugee_camps": [
+      {
+        "name": "baharka",
+        "latitude": 36.2465747802477,
+        "longitude": 44.02138905377267,
+        "capacity": null,
+        "current_population": null,
+        "last_updated": "",
+        "assigned_district_hh": "erbil"
+      },
+      {
+        "name": "harshm",
+        "latitude": 36.25603695387067,
+        "longitude": 43.99225084611803,
+        "capacity": null,
+        "current_population": null,
+        "last_updated": "",
+        "assigned_district_hh": "erbil"
+      },
+      {
+        "name": "Darashakran Refugee Camp",
+        "latitude": 36.47169038128295,
+        "longitude": 43.88998611552274,
+        "capacity": 20000,
+        "current_population": 11868,
+        "last_updated": "",
+        "assigned_district_hh": "shaqlawa"
+      },
+      {
+        "name": "Qushtapa Camp",
+        "latitude": 35.98304503854166,
+        "longitude": 44.03527136268525,
+        "capacity": null,
+        "current_population": 8592,
+        "last_updated": "",
+        "assigned_district_hh": "erbil"
+      },
+      {
+        "name": "Kawergosk Camp",
+        "latitude": 36.344175350880576,
+        "longitude": 43.813397206503616,
+        "capacity": null,
+        "current_population": 8150,
+        "last_updated": "",
+        "assigned_district_hh": "erbil"
+      },
+      {
+        "name": "Basirma Camp",
+        "latitude": 36.497823644109175,
+        "longitude": 44.34141895991428,
+        "capacity": null,
+        "current_population": 1834,
+        "last_updated": "",
+        "assigned_district_hh": "shaqlawa"
+      }
+    ]
+  },
+  "al_mosul": {
+    "latitude_hh": 36.35018495,
+    "longitude_hh": 43.12833954967303,
+    "refugee_camps": []
+  },
+  "al_risafa": {
+    "latitude_hh": 33.3634337,
+    "longitude_hh": 44.4224225,
+    "refugee_camps": []
+  },
+  "al_karkh": {
+    "latitude_hh": 33.3163798,
+    "longitude_hh": 44.3658908,
+    "refugee_camps": []
+  },
+  "al_kaim": {
+    "latitude_hh": 34.3957715,
+    "longitude_hh": 40.9943684,
+    "refugee_camps": []
+  },
+"zakho": {
+  "latitude_hh": 37.1433762,
+  "longitude_hh": 42.6822907,
+  "refugee_camps": [
+    {
+      "name": "bersive_1",
+      "latitude": 37.180568368144094,
+      "longitude": 42.859288538992026,
+      "capacity": null,
+      "current_population": 7850,
+      "last_updated": "10-03-2019",
+      "assigned_district_hh": "zakho"
+    },
+    {
+      "name": "chamisku",
+      "latitude": 37.176422913326,
+      "longitude": 42.665666535983576,
+      "capacity": null,
+      "current_population": 7850,
+      "last_updated": "10-03-2019",
+      "assigned_district_hh": "zakho"
+    }
+  ]
+},
+  "al_falluja": {
+    "latitude_hh": 33.3532137,
+    "longitude_hh": 43.7875674,
+    "refugee_camps": []
+  },
+  "tilkaef": {
+    "latitude_hh": 36.48969,
+    "longitude_hh": 43.11825,
+    "refugee_camps": []
+  },
+  "telafar": {
+    "latitude_hh": 36.3833,
+    "longitude_hh": 42.45,
+    "refugee_camps": []
+  },
+  "al_baaj": {
+    "latitude_hh": 36.0474503,
+    "longitude_hh": 41.7168685,
+    "refugee_camps": []
+  },
+  "halabcha": {
+    "latitude_hh": 35.18167,
+    "longitude_hh": 45.98295,
+    "refugee_camps": []
+  },
+  "sinjar": {
+    "latitude_hh": 36.3192729,
+    "longitude_hh": 41.8598585,
+    "refugee_camps": []
+  },
+  "dibis": {
+    "latitude_hh": 35.6368834,
+    "longitude_hh": 44.100262744464196,
+    "refugee_camps": []
+  },
+  "rania": {
+    "latitude_hh": 36.24972,
+    "longitude_hh": 44.88463,
+    "refugee_camps": []
+  },
+  "al_zibar": {
+    "latitude_hh": 32.359154,
+    "longitude_hh": 44.785818,
+    "refugee_camps": []
+  },
+  "al_adhamiya": {
+    "latitude_hh": 33.3699972,
+    "longitude_hh": 44.3651962,
+    "refugee_camps": []
+  },
+  "ana": {
+    "latitude_hh": 34.3725143,
+    "longitude_hh": 41.9858716,
+    "refugee_camps": []
+  },
+  "panjwin": {
+    "latitude_hh": 35.62423,
+    "longitude_hh": 45.94569,
+    "refugee_camps": []
+  },
+  "haditha": {
+    "latitude_hh": 35.62423,
+    "longitude_hh": 45.94569,
+    "refugee_camps": []
+  },
+  "al_hamdaniya": {
+    "latitude_hh": 36.2710491,
+    "longitude_hh": 43.3763511,
+    "refugee_camps": [        {
+      "name": "Gawilan Camp",
+      "latitude": 36.34153082173548,
+      "longitude": 43.609282358432644,
+      "capacity": null,
+      "current_population": 11542,
+      "last_updated": "18-04-2025",
+      "assigned_district_hh": "al_hamdaniya"
+    },
+    {
+      "name": "khazer_m1",
+      "latitude": 36.30600686283567,
+      "longitude": 43.54542865685846,
+      "capacity": null,
+      "current_population": null,
+      "last_updated": "",
+      "assigned_district_hh": "al_hamdaniya"
+    },
+    {
+      "name": "hasansham_u3",
+      "latitude": 36.320081499828945,
+      "longitude": 43.53303481535744,
+      "capacity": null,
+      "current_population": null,
+      "last_updated": "",
+      "assigned_district_hh": "al_hamdaniya"
+    }
+  ]
+  },
+  "al_mada_in": {
+    "latitude_hh": 33.09372715,
+    "longitude_hh": 44.58078632244283,
+    "refugee_camps": []
+  },
+  "heet": {
+    "latitude_hh": 33.6387394,
+    "longitude_hh": 42.8278537,
+    "refugee_camps": []
+  },
+  "daquq": {
+    "latitude_hh": 35.14101355,
+    "longitude_hh": 44.448008235885126,
+    "refugee_camps": []
+  },
+  "koysinjaq": {
+    "latitude_hh": 36.08516,
+    "longitude_hh": 44.64372,
+    "refugee_camps": []
+  },
+  "sumail": {
+    "latitude_hh": 36.8568588,
+    "longitude_hh": 42.8472663,
+    "refugee_camps": [
+      {
+        "name": "Sharya Camp",
+        "latitude": 36.79565516539169,
+        "longitude": 42.96100114631111,
+        "capacity": null,
+        "current_population": 9350,
+        "last_updated": "18-04-2025",
+        "assigned_district_hh": "sumail"
+      },
+      {
+        "name": "Khanik Camp",
+        "latitude": 36.78271678978257,
+        "longitude": 42.77391654923875,
+        "capacity": null,
+        "current_population": 11838,
+        "last_updated": "18-04-2025",
+        "assigned_district_hh": "sumail"
+      },
+      {
+        "name": "Dumiz 1 Camp",
+        "latitude": 36.78232231,
+        "longitude": 42.89142378,
+        "capacity": 38135,
+        "current_population": 69033,
+        "last_updated": "18-04-2025",
+        "assigned_district_hh": "sumail"
+      },
+      {
+        "name": "Dumiz 2 Camp",
+        "latitude": 36.76417009121111,
+        "longitude": 42.895866448253805,
+        "capacity": 38135,
+        "current_population": 69033,
+        "last_updated": "18-04-2025",
+        "assigned_district_hh": "sumail"
+      },
+    {
+      "name": "kabarto_1",
+      "latitude": 36.788715073434204,
+      "longitude": 42.85528119567169,
+      "capacity": null,
+      "current_population": null,
+      "last_updated": "",
+      "assigned_district_hh": "sumail"
+    },
+    {
+      "name": "kabarto_2",
+      "latitude": 36.78543681580388,
+      "longitude": 42.85299043957147,
+      "capacity": null,
+      "current_population": null,
+      "last_updated": "",
+      "assigned_district_hh": "sumail"
+    }
+    ]
+  },
+  "chamchamal": {
+    "latitude_hh": 35.5311005,
+    "longitude_hh": 44.8271913,
+    "refugee_camps": []
+  },
+  "al_amadiya": {
+    "latitude_hh": 37.0919695,
+    "longitude_hh": 43.4874378,
+    "refugee_camps": []
+  },
+  "al_shikhan": {
+    "latitude_hh": 36.6468,
+    "longitude_hh": 43.31028,
+    "refugee_camps": [
+      {
+        "name": "mamrashan",
+        "latitude": 36.6687671620146,
+        "longitude": 43.44130939037162,
+        "capacity": null,
+        "current_population": 4192,
+        "last_updated": "18-04-2025",
+        "assigned_district_hh": "al_shikhan"
+      },
+      {
+        "name": "sheikhan",
+        "latitude": 36.67114384124246,
+        "longitude": 43.34219788081773,
+        "capacity": null,
+        "current_population": 2492,
+        "last_updated": "18-04-2025",
+        "assigned_district_hh": "al_shikhan"
+      },
+      {
+        "name": "essian",
+        "latitude": 36.72387499748117,
+        "longitude": 43.26754339657575,
+        "capacity": null,
+        "current_population": null,
+        "last_updated": "",
+        "assigned_district_hh": "al_shikhan"
+      }
+  ]  },
+  "al_rutba": {
+    "latitude_hh": 33.0367407,
+    "longitude_hh": 40.2876459,
+    "refugee_camps": []
+  },
+  "qayarah": {
+  "latitude_hh": 35.79711631495209,
+  "longitude_hh": 43.290514967821416,
+  "refugee_camps": [
+    {
+      "name": "qayyarah_jadah_five",
+      "latitude": 35.75675384115211,
+      "longitude": 43.24749065121225,
+      "capacity": null,
+      "current_population": null,
+      "last_updated": "",
+      "assigned_district_hh": "qayarah"
+    }
+  ]
+},
+"makhmur": {
+  "latitude_hh": 35.88322580074303,
+  "longitude_hh": 43.80819004107712,
+  "refugee_camps": [
+    {
+      "name": "debaga_1",
+      "latitude": 35.88322580074303,
+      "longitude": 43.80819004107712,
+      "capacity": null,
+      "current_population": null,
+      "last_updated": "",
+      "assigned_district_hh": "makhmur"
+    }
+    
+  ]
+  
+}
+
+  
+}
