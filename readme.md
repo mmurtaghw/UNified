@@ -30,13 +30,13 @@ _The primary microdata cannot be redistributed via GitHub._ You will need to dow
   [UNHCR Microdata Library – MCNA 2021 Iraq](https://microdata.unhcr.org/index.php/catalog/913)
 
 - **OpenStreetMap (OSM)** amenity data  
-  Download or extract filtered `.csv` from [OpenStreetMap](https://www.openstreetmap.org) via Overpass or HOT Export tools. You'll need amenity names and coordinates for Iraq.
+  Download or extract filtered `.csv` from [OpenStreetMap](https://www.openstreetmap.org) via Overpass or HOT Export tools. You'll need amenity names and coordinates for Iraq. **Available in repo.**
 
 - **ACLED Conflict Data (Iraq, 2021)**  
   [ACLED Iraq Dataset – 2021](https://acleddata.com/data/)
 
 - **Camp Coordinates**  
-  Manually curated using UNHCR Iraq portal, ReliefWeb, and Google Maps.
+  Manually curated using UNHCR Iraq portal, ReliefWeb, and Google Maps, **available in repo.**
 
 - **District Boundaries (IRQ ADM2)**  
   Available from [Humanitarian Data Exchange (HDX)](https://data.humdata.org) or UN OCHA shapefiles. File used: `irq_admbnda_adm2_cso_20190603.shp`.
