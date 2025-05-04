@@ -104,7 +104,7 @@ python grid_walk_iraq.py
 
 ### 1. **Get Required Datasets**
 
-Again, microdata must be downloaded manually:
+Again, most microdata must be downloaded manually:
 
 - **J-MSNA 2018 (Uganda)**  
   [UNHCR Microdata Library – Uganda 2018](https://microdata.unhcr.org/index.php/catalog/229)
@@ -113,13 +113,13 @@ Again, microdata must be downloaded manually:
   [World Bank Microdata Library – UNPS](https://microdata.worldbank.org/index.php/catalog/3820)
 
 - **OpenStreetMap Amenities (Uganda)**  
-  As with Iraq, filtered via Overpass or HOT Export.
+  As with Iraq, filtered via Overpass or HOT Export. **Available in Repo**.
 
 - **ACLED Conflict Data (Uganda, 2018)**  
   [ACLED Uganda Dataset – 2018](https://acleddata.com/data/)
 
 - **Refugee settlement coordinates**  
-  Manually matched to `settlement` column in J-MSNA using UNHCR/ReliefWeb/Google Maps.
+  Manually matched to `settlement` column in J-MSNA using UNHCR/ReliefWeb/Google Maps. **Available in Repo**.
 
 - **Uganda District Shapefile (ADM2)**  
   From [HDX](https://data.humdata.org/) or UBOS/NIRA shapefiles.
